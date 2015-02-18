@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: af73cd708ee08c6498b2be8806c20b76
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hydralisk Den 550x550_0
+    21300002: Hydralisk Den 550x550_1
+    21300004: Hydralisk Den 550x550_2
+    21300006: Hydralisk Den 550x550_3
+    21300008: Hydralisk Den 550x550_4
+    21300010: Hydralisk Den 550x550_5
+    21300012: Hydralisk Den 550x550_6
+    21300014: Hydralisk Den 550x550_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hydralisk Den 550x550_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hydralisk Den 550x550_7
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
